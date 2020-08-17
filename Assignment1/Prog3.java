@@ -3,7 +3,7 @@ package com.company;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-/*
+
 class Employee{
     private int empId;
     private String empName,empDesignation,empLocation;
@@ -54,4 +54,3 @@ public class Prog3 {
         System.out.println(designations);
     }
 }
-*/
